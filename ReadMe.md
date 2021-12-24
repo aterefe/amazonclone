@@ -1,1 +1,0 @@
-First Amazon Clone project.
