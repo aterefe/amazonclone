@@ -14,6 +14,18 @@ function Header() {
         className='header_searchInput' type='text'/>
         {/* Logo */}
       </div>
+
+      <div className='header_nav'>
+        <div className='header-option'>
+
+        </div>
+        <div className='header-option'>
+
+        </div>
+        <div className='header-option'>
+          
+        </div>
+      </div>
     </div>
   )
 }
