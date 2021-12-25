@@ -17,13 +17,40 @@ function Header() {
 
       <div className='header_nav'>
         <div className='header-option'>
-
+          <span
+          className='header_optionlineone'
+          >
+            Hello Guest
+          </span>
+          <span
+            className='header_optionlinetwo'
+          >
+            Sign in
+          </span>
         </div>
         <div className='header-option'>
-
+          <span
+            className='header_optionlineone'
+          >
+            Returns
+          </span>
+          <span
+            className='header_optionlinetwo'
+          >
+            & Orders
+          </span>
         </div>
         <div className='header-option'>
-          
+          <span
+            className='header_optionlineone'
+          >
+            Your
+          </span>
+          <span
+            className='header_optionlinetwo'
+          >
+            Prime
+          </span>
         </div>
       </div>
     </div>
