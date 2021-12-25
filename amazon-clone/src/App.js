@@ -1,4 +1,6 @@
+import React from 'react'
 import './App.css';
+import Header from './Header'
 
 function App() {
   return (
@@ -7,7 +9,7 @@ function App() {
     <div className="app">
       <h1>Hello clever programmers,
         let build the amazon store! 🚀</h1>
-        {/* Header (search Bar) */}
+        <Header />
         {/* Header (products) */}
     </div>
   );
