@@ -7,8 +7,6 @@ function App() {
 
     //Bem convention
     <div className="app">
-      <h1>Hello clever programmers,
-        let build the amazon store! 🚀</h1>
         <Header />
         {/* Header (products) */}
     </div>
