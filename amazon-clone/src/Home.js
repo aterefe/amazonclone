@@ -4,7 +4,7 @@ import Product from './Product'
 
 function Home() {
   return (
-    <div className='Home'>
+    <div className='home'>
       <div className='home_container'>
         <img
           className='home_image'
@@ -13,6 +13,7 @@ function Home() {
         />
 
         <div className='home_row'>
+          <Product />
           <Product />
           {/* product */}
         </div>
